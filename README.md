@@ -64,8 +64,10 @@ A companion PPT in this repo walks through every question with its query and out
 
 ```
 swiggy-sql-query-portfolio
-├── swiggy_queries.sql             ← All SQL queries (add your file here)
-├── Swiggy_SQL_Portfolio.pptx      ← Query + output walkthrough (add your file here)
+├── swiggy_queries.sql             ← All 13 SQL queries
+├── Swiggy_SQL_Insights.pdf        ← Query + output walkthrough deck
+├── data/
+│   └── swiggy_database.sql        ← Creates SwiggyDB with tables and sample data
 ├── cover.png                      ← Repo cover image
 └── README.md
 ```
